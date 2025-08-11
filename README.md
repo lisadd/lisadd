@@ -8,11 +8,11 @@ I'm a Applicaton Security Development & Platform Engineer with a passion for bui
 - 🚀 CI/CD (GitHub Actions, Gitlab, Jenkins, AWS & Azure DevOps Pipelines, ArgoCD (GitOps Methodology)
 
 ## 🛠️ What I Work With:
-**Languages**: Bash, Python, JSON, YAML, CSS, HTML  
-**Tools**: Kubernetes, Docker, Podman, Containerd Postman, Helm, Vault, Atlassian: Jira, Confluence; Keycloak, OpenLDAP 
-**Security**: IAM, Azure AD, Key Vault, OPA, RBAC
-**App Security**: SAST, DAST, IAST, RASP, SCA, Runtime Security
-**Monitoring**: CloudWatch, Azure Monitor, Prometheus, Grafana 
+- **Languages**: Bash, Python, JSON, YAML, CSS, HTML  
+- **Tools**: Kubernetes, Docker, Podman, Containerd Postman, Helm, Vault, Atlassian: Jira, Confluence; Keycloak, OpenLDAP 
+- **Security**: IAM, Azure AD, Key Vault, OPA, RBAC
+- **App Security**: SAST, DAST, IAST, RASP, SCA, Runtime Security
+- **Monitoring**: CloudWatch, Azure Monitor, Prometheus, Grafana 
 
 ## 📂 Featured Projects:
 In-Progress...
