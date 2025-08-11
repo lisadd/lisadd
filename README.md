@@ -15,7 +15,7 @@ I'm a Applicaton Security Development & Platform Engineer with a passion for bui
 **Monitoring**: CloudWatch, Azure Monitor, Prometheus, Grafana 
 
 ## 📂 Featured Projects:
-In-Progres...
+In-Progress...
 
 
 ## 🚀 Current Focus:
