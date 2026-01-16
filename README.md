@@ -8,7 +8,7 @@ I'm a Applicaton Security Development (Software Engineer), Platform Engineer  & 
 - 🚀 CI/CD (GitHub Actions, Gitlab, Jenkins, AWS & Azure DevOps Pipelines, ArgoCD (GitOps Methodology)
 
 ## 🌐 Cisco Automation Focus:
-- Cisco IOS / IOS-XE; Routing: OSPF, BGP, EIGRP; Switching: VLAN, STP, EtherChannel; Security: ACLs, VPN basics
+- Cisco IOS / IOS-XE; Routing: OSPF, BGP, EIGRP; Switching: VLAN, SVI, STP, EtherChannel; Security: ACLs, VPN basics
 - Python (Netmiko, NAPALM, Paramiko, Requests)
 - Ansible (Playbooks, Roles, Inventories) and **some Ansible Tower(Red Hat Ansible Automation Platform (AAP)) experience
 
