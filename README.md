@@ -23,7 +23,7 @@ I'm a Applicaton Security Development (Software Engineer), Platform Engineer  & 
 - **Security**: IAM, Azure AD, Key Vault, OPA, RBAC
 - **App Security**: 
 - **Monitoring**: CloudWatch, Azure Monitor, Prometheus, Grafana
-- **Libraries & Packages: 
+- **Libraries & Packages**: 
 
 ## 📂 Featured Projects:
 In-Progress...
