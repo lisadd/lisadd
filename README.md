@@ -13,7 +13,7 @@ I'm a Applicaton Security Development Engineer (Software Engineer), Platform Eng
 - Ansible (Playbooks, Roles, Inventories) and **some Ansible Tower(Red Hat Ansible Automation Platform (AAP)) experience
 
 ## 🌐 Application Security Development & Monitoring Automation Focus:
-- SAST, DAST, IAST, RASP, SCA, Runtime Security
+- SAST, DAST, IAST, RASP(Runtime Security), SCA 
 - Threat Modeling (STRIDE, MITRE ATT&CK)
 - Python(pandas, numpy, scikit-learn, matplotlib, seaborn)
 
