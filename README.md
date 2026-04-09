@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Alicia
-I'm a Applicaton Security Development Engineer (Software Engineer), Platform Engineer  &  Network Automation Engineer (Cisco/Ansible/Python) with a passion for building scalable, secure, and developer-friendly cloud infrastructure. I specialize in designing regulatory compliant cloud-native platforms on AWS and Azure to accelerate engineering teams and streamline operations.
+I'm a Applicaton Security Development Engineer, Platform Engineer  &  Network Automation Engineer (Cisco/Ansible/Python) with a passion for building scalable, secure, and developer-friendly cloud infrastructure. I specialize in designing regulatory compliant cloud-native platforms on AWS and Azure to accelerate engineering teams and streamline operations.
 
 ## 🌐 Cloud Platform Focus:
 - ☁️ AWS (EKS, RDS, DynamoDB, APIGateway, ECS, EC2, VPC, IAM, Lambda, CloudFormation, API Gateway, Boto3)
